@@ -17,27 +17,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed1854df-5184-49fe-aceb-36197187de7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Blog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Contact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Projects.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/colors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623953586527</updated>
-      <workItem from="1623953587576" duration="410000" />
+      <workItem from="1623953587576" duration="8222000" />
     </task>
     <servers />
   </component>
@@ -90,5 +93,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624032326046">
+      <screen x="0" y="0" width="1831" height="1080" />
+    </state>
+    <state x="645" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1831.1080/1982.0.1858.1080@0.0.1831.1080" timestamp="1624032326046" />
+    <state x="92" y="92" width="1647" height="896" key="DiffContextDialog" timestamp="1623956047411">
+      <screen x="0" y="0" width="1831" height="1080" />
+    </state>
+    <state x="92" y="92" width="1647" height="896" key="DiffContextDialog/0.0.1831.1080/1982.0.1858.1080@0.0.1831.1080" timestamp="1623956047411" />
   </component>
 </project>
