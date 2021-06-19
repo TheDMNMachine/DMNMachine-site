@@ -1,6 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Strona Główna </router-link> |
+    <router-link to="/">Strona Główna </router-link>
     <router-link to="/about">O mnie</router-link>
     <router-link to="/projects">Projekty</router-link>
     <router-link to="/contact">Konakt</router-link>
